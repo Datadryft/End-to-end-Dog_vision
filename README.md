@@ -37,4 +37,5 @@ Some information about the data:
 ![File_pic](images/image_2025-03-06_112318530.png)
 
 ## Kaggle Current Score! (Score Range: 0-1)
+82% 1st try!
 ![Current_score](images/image_2025-03-06_112153499.png)
